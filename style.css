@@ -1,0 +1,151 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    background-color: rgba(16, 17, 17, 0.856);
+    top: 0;
+    width: 100%;
+    height: 45px;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+}
+.logo{
+    display: flex;
+    color: #f5f5f7;
+    justify-content: center;
+    top: 0px;
+}
+.logo li{
+    list-style-type: none;
+    display: inline;
+    padding: 15px;   
+}
+.logo ul{
+    margin-top: 7px;
+}
+.main{
+    justify-content: center;
+}
+.smallbox{
+    background-color: #f5f5f7;
+    height:30px;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.iPhone{
+    background-image: url(Images/1.jpg);
+    width: 100%;
+    height: 725px;
+    background-position: center center;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.iPhonepro{
+    background: url(Images/2.jpg);
+    width: 100%;
+    height: 725px;
+    background-position: center center;
+    justify-content: center;
+    text-align: center;
+    color: #f5f5f7;
+}
+.iPad{
+    background: url(Images/3.jpg);
+    width: 100%;
+    height: 725px;
+    background-position: center center;
+    justify-content: center;
+    text-align: center;    
+}
+.iPadpro{
+    background: url(Images/4.1.jpg);
+    width: 50%;
+    height: 575px;
+    background-position: center center;
+    justify-content: center;
+    text-align: center;    
+    margin: 10px;
+    color: #f5f5f7;
+}
+.TV{
+    background: url(Images/4.2.jpg);
+    width: 50%;
+    height: 575px;
+    background-position: center center;
+    justify-content: center;
+    text-align: center;    
+    margin: 10px;
+}
+.watch8{
+    background: url(Images/5.2.jpg);
+    width: 50%;
+    height: 575px;
+    background-position: center center;
+    justify-content: center;
+    text-align: center;    
+    margin: 10px;
+    color: #f5f5f7;
+}
+.watch{
+    background: url(Images/5.1.jpg);
+    width: 50%;
+    height: 575px;
+    background-position: center center;
+    justify-content: center;
+    text-align: center;    
+    margin: 10px;
+}
+.airpods{
+    background: url(Images/6.1.jpg);
+    width: 50%;
+    height: 575px;
+    background-position: center center;
+    justify-content: center;
+    text-align: center;    
+    margin: 10px;
+    color: #f5f5f7;
+}
+.Macbook{
+    background: url(Images/6.2.png);
+    width: 50%;
+    height: 575px;
+    background-position: center center;
+    justify-content: center;
+    text-align: center;    
+    margin: 10px;
+}
+.footer{
+    margin-top: 20px;
+
+}
+.list{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    width: 58%;
+    margin: auto;
+    color: #6E6E73;
+    font-size: 15px;
+    
+}
+.list li{
+    margin: 15px;
+    margin-top: 0px;
+    list-style: none;
+}
+.text{
+    width: 55%;
+    margin: auto;
+    color: #6E6E73;
+    font-family: Arial, Helvetica, sans-serif;   
+    font-size: 12px;
+}
+.last li{
+    margin-left: 20px;
+}
